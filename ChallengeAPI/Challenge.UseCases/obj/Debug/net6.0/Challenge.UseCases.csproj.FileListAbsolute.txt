@@ -1,0 +1,17 @@
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.UseCases.deps.json
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.UseCases.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\ref\Challenge.UseCases.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.UseCases.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.csproj.AssemblyReference.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.AssemblyInfoInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.AssemblyInfo.cs
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\ref\Challenge.UseCases.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.Core.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.Repos.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.Core.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\bin\Debug\net6.0\Challenge.Repos.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.UseCases\obj\Debug\net6.0\Challenge.UseCases.csproj.CopyComplete

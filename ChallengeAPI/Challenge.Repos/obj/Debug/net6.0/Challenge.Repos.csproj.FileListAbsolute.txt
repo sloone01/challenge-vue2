@@ -1,0 +1,15 @@
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.csproj.AssemblyReference.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.AssemblyInfoInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.AssemblyInfo.cs
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\Challenge.Repos.deps.json
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\Challenge.Repos.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\ref\Challenge.Repos.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\Challenge.Repos.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\Challenge.Core.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\bin\Debug\net6.0\Challenge.Core.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.csproj.CopyComplete
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\ref\Challenge.Repos.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Repos\obj\Debug\net6.0\Challenge.Repos.pdb

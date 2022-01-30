@@ -1,0 +1,15 @@
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\Challenge.Validations.deps.json
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\Challenge.Validations.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\ref\Challenge.Validations.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\Challenge.Validations.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\Challenge.Core.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\bin\Debug\net6.0\Challenge.Core.pdb
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.csproj.AssemblyReference.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.AssemblyInfoInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.AssemblyInfo.cs
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.csproj.CopyComplete
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\ref\Challenge.Validations.dll
+C:\Users\MYPC\source\repos\Challenge\Challenge.Validations\obj\Debug\net6.0\Challenge.Validations.pdb

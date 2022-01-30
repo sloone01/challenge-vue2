@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be9fd29a-c379-4a15-89d1-05640aab6b38": {
+      "ProjectGuid": "be9fd29a-c379-4a15-89d1-05640aab6b38",
+      "DisplayName": "Challenge.Core",
+      "ColorIndex": 0
+    },
+    "80155c15-e3a5-46bb-962e-4c99ef4b69fb": {
+      "ProjectGuid": "80155c15-e3a5-46bb-962e-4c99ef4b69fb",
+      "DisplayName": "Challenge.UseCases",
+      "ColorIndex": 1
+    },
+    "4aa94fa2-e424-4789-8f2e-2d0339718010": {
+      "ProjectGuid": "4aa94fa2-e424-4789-8f2e-2d0339718010",
+      "DisplayName": "ChallengeServices",
+      "ColorIndex": 2
+    },
+    "0df3af46-6a15-4d2b-a8bc-9e5c6194a42a": {
+      "ProjectGuid": "0df3af46-6a15-4d2b-a8bc-9e5c6194a42a",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 3
+    },
+    "a378dfb7-711d-48f1-b953-45d5d402fe3f": {
+      "ProjectGuid": "a378dfb7-711d-48f1-b953-45d5d402fe3f",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    },
+    "c256327b-e56d-4976-be15-a5954c02e1f6": {
+      "ProjectGuid": "c256327b-e56d-4976-be15-a5954c02e1f6",
+      "DisplayName": "Challenge.Core",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c76e6281-a0a7-4160-b17b-0439c56169be": {
+      "ProjectGuid": "c76e6281-a0a7-4160-b17b-0439c56169be",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 6
+    },
+    "0aec5479-01c7-40e1-bfd9-11c7e9904743": {
+      "ProjectGuid": "0aec5479-01c7-40e1-bfd9-11c7e9904743",
+      "DisplayName": "sdfsadfsdf",
+      "ColorIndex": 7
+    },
+    "48043065-23ca-4e58-9886-3526222440f0": {
+      "ProjectGuid": "48043065-23ca-4e58-9886-3526222440f0",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 8
+    },
+    "449f3756-fbd4-4c3d-9761-f3f7351a1ea4": {
+      "ProjectGuid": "449f3756-fbd4-4c3d-9761-f3f7351a1ea4",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 9
+    },
+    "7e61c12d-d85a-44a1-b97b-b80fe8354081": {
+      "ProjectGuid": "7e61c12d-d85a-44a1-b97b-b80fe8354081",
+      "DisplayName": "ClassLibrary3",
+      "ColorIndex": 10
+    },
+    "5e665837-e77d-4329-8e39-9c498cae86db": {
+      "ProjectGuid": "5e665837-e77d-4329-8e39-9c498cae86db",
+      "DisplayName": "ClassLibrary4",
+      "ColorIndex": 11
+    },
+    "7c173fc2-c429-437d-a2ce-bb050b35a313": {
+      "ProjectGuid": "7c173fc2-c429-437d-a2ce-bb050b35a313",
+      "DisplayName": "Challenge.Core",
+      "ColorIndex": 12
+    },
+    "8e5c8bec-59d7-4deb-abb2-b51b789bf88d": {
+      "ProjectGuid": "8e5c8bec-59d7-4deb-abb2-b51b789bf88d",
+      "DisplayName": "Challenge.Data",
+      "ColorIndex": 13
+    },
+    "c480f3b9-fc3f-4772-bd9c-e28d92c424bc": {
+      "ProjectGuid": "c480f3b9-fc3f-4772-bd9c-e28d92c424bc",
+      "DisplayName": "Challenge.Repos",
+      "ColorIndex": 14
+    },
+    "ee53a563-d8bb-40a8-a724-efd96fff9c02": {
+      "ProjectGuid": "ee53a563-d8bb-40a8-a724-efd96fff9c02",
+      "DisplayName": "Challenge.UseCases",
+      "ColorIndex": 15
+    },
+    "a768ea27-ee7a-4312-900f-1f04a62476ca": {
+      "ProjectGuid": "a768ea27-ee7a-4312-900f-1f04a62476ca",
+      "DisplayName": "Challenge.Services",
+      "ColorIndex": 0
+    },
+    "1b7c9ff5-e371-4586-b030-d0839bfa8403": {
+      "ProjectGuid": "1b7c9ff5-e371-4586-b030-d0839bfa8403",
+      "DisplayName": "Challenge",
+      "ColorIndex": 1
+    },
+    "6885ff6e-1592-4d12-86ba-d8ce91b26c24": {
+      "ProjectGuid": "6885ff6e-1592-4d12-86ba-d8ce91b26c24",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    },
+    "9cbf829f-4231-457b-8731-256dffd42422": {
+      "ProjectGuid": "9cbf829f-4231-457b-8731-256dffd42422",
+      "DisplayName": "Events.Api",
+      "ColorIndex": 3
+    },
+    "bb0f9f7e-36b9-4327-af8d-6c8b02a888d0": {
+      "ProjectGuid": "bb0f9f7e-36b9-4327-af8d-6c8b02a888d0",
+      "DisplayName": "Challenge.API",
+      "ColorIndex": 4
+    },
+    "262acd8d-6f6f-4fd2-a9f0-35d60e7ed9e7": {
+      "ProjectGuid": "262acd8d-6f6f-4fd2-a9f0-35d60e7ed9e7",
+      "DisplayName": "Challenge.Validations",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
